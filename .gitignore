@@ -1,0 +1,8 @@
+﻿scan.json
+scan_bad.json
+usage_raw.json
+.scan_cache/
+.venv*/
+__pycache__/
+*.pyc
+.env
